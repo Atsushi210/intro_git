@@ -4,3 +4,4 @@ Gitに関する講座です。
 .git commit
 .git rm
 .git status
+.git diff

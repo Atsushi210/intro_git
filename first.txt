@@ -1,2 +1,4 @@
 基本的なGitを学べます。
 Gitに関する講座です。
+.git add
+.git commit
